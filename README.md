@@ -55,7 +55,7 @@ Follow these instructions to get the project running on your local machine for d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sanjoli04/ppt-generator.git
+   git clone https://github.com/23f2000288/ppt_generator.git
    cd ppt-generator
    ```
 
